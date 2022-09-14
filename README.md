@@ -18,12 +18,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pritam-kumar-baidya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ![portada](https://user-images.githubusercontent.com/88688762/164949956-93e1e806-3f07-4ecb-b2df-8489cff3bc8c.jpg)
 
 ---
