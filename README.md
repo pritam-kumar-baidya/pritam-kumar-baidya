@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-pritamkumarbadi2@gmail.com
+pritamkumarbadi23@gmail.com
 +8801794508723
 
 ## 🌐 Socials:
