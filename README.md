@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-About me
+About me :
 
 A passionate researcher and ML enthusiast.
 
