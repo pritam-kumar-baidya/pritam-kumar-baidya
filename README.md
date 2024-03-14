@@ -6,21 +6,34 @@
 About me
 
 A passionate researcher and ML enthusiast.
+
 Pursuing a degree in D.K. Ideal syed   Atahar Ali Academy & College.
+
 Research interests include graph neural networks, computer vision, image processing, and NLP.
+
 Open to collaborating with fellow researchers and developers on ML and Bioinformatics projects.
+
 🧠 AI & ML Researcher | ICT BSc Student 🎓 | 🇧🇩 Bangladeshi.
+
 🌱 Exploring the fascinating realms of AI, ML, and Bioinformatics.
+
 💡 Passionate about Graph Neural Networks (GNNs), Computer Vision, and Image Processing.
+
 🚀 On a mission to bridge technology and life sciences through AI solutions.
 📖 Eager to dive into Natural Language Processing (NLP).
+
 Languages and Tools:
 
 Python: Skilled in Python, a widely-used programming language for machine learning and data analysis.
+
 PyTorch: Familiar with PyTorch, a deep learning framework.
+
 TensorFlow: Familiar with TensorFlow, another popular deep learning framework.
+
 OpenCV: Uses OpenCV, an open-source computer vision library, in projects.
+
 Seaborn: Proficient in Seaborn, a data visualization library.
+
 Matlab: Familiar with Matlab, a numerical computing environment
 
 pritamkumarbadi23@gmail.com
